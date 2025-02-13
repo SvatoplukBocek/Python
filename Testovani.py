@@ -7,3 +7,4 @@ else:
     print ("První číslo je větší než druhé")
   else:
     print ("První číslo je menší než druhé")
+print ("Zkouším GitHub")
