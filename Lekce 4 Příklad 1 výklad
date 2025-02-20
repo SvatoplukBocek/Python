@@ -1,0 +1,22 @@
+# Seznam jmen účastníků tomboly
+jmena = [
+"Adam", "Beáta", "Cyril", "Dana", "Eva", "Filip", "Gabriela", "Honza", "Ivana", "Jakub",
+"Karel", "Lenka", "Marek", "Nina", "Ondřej", "Pavla", "Radek", "Simona", "Tomáš", "Ursula",
+"Václav", "Wendy", "Xaver", "Yvona", "Zdeněk", "Alex", "Bára", "Cecilie", "David", "Eliška",
+"František", "Gita", "Hugo", "Irena", "Jan", "Klára", "Luboš", "Magdaléna", "Nikola", "Oto"
+]
+
+# Seznam výherců
+vyherci = []
+
+# Projdeme seznam a najdeme každého 10. účastníka
+for index, jmeno in enumerate(jmena, start=1):
+    if index % 10 == 0:# Každé desáté jméno
+        vyherci.append(jmeno)
+
+# Výpis výherců
+print("🎉 Výherci tomboly:")
+poradi = 1
+for vyherce in vyherci:
+    print(f"{poradi}. {vyherce}")
+    poradi += 1 

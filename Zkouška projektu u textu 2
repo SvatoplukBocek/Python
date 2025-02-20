@@ -4,7 +4,7 @@ projekt_1.py: první projekt do Engeto Online Python Akademie
 author: Svatopluk Boček
 email: svatopluk.bocek@gmail.com
 """
-uzivatele = {                                                       #Nejdrive si vytvorim slovník s uživateli        
+"""uzivatele = {                                                       #Nejdrive si vytvorim slovník s uživateli        
     "bob":"123",
     "ann":"pass123",
     "mike":"password123",
@@ -20,7 +20,7 @@ print(65*"-")
 print("Vítej v aplikaci uživateli", jmeno)
 print("Máme 3 texty k analýze")
 print(65*"-")
-print()
+print()"""
 TEXTS = ['''
 Situated about 10 miles west of Kemmerer,
 Fossil Butte is a ruggedly impressive
@@ -108,17 +108,15 @@ print("V textu je", pocet_cisel, "celých čísel neobsahujících písmeno.")
 print("Součet čísel v textu je ", suma)
 print("Četnost slov v textu podle délky je" )
 print(65*"-")
-delka_odstavce = 20                                              #tak nakonec nejtěžší bylo vymyslet zarovnání textu :-O
+delka_odstavce = 15                                              #tak nakonec nejtěžší bylo vymyslet zarovnání textu :-O
 nadpis = ("Délka slova", "Četnost", "Počet")
 print(nadpis[0], (int(delka_odstavce)-len(nadpis[0])) * " " , nadpis[1], (int(delka_odstavce)-len(nadpis[1])) * " ", nadpis[2])
 print(65*"-")
+print(cetnost)
 for klic in range(min(cetnost.keys()),len(cetnost)):
         zarovnani_delka_slova = delka_odstavce - len(str(klic))
-        zarovnani = delka_odstavce - int(cetnost[klic])
-        print(klic, " "*zarovnani_delka_slova, int(cetnost[klic]) * "*", " " * zarovnani, cetnost[klic])
+        zarovnani = delka_odstavce 
+        print(klic, " "*zarovnani_delka_slova, 15 * "*", " " * zarovnani)
         klic = klic + 1
 
 # a teď už jenom odemknout přihlašování jménem a heslem a mělo by to být vše :-)
-# tak funguje jen s textem 1 a 3, takže jsem si udělal kopii a zkoušel jsem proč a pak opravil zde
-# protože nebylo v zadání jestli buff-to-white je jedno slovo nebo tři slova, tak jsem vybral variantu 3 slova!
-# Přeji příjemný den :-)

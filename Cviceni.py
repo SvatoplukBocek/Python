@@ -1,23 +1,20 @@
-skupina_1 = [
-    'h.vybíralová@firma.cz', 'w.štrumlová@firma.cz', 'm.vybíralová@firma.cz',
-    's.bechyňka@firma.cz', 'z.urbánková@firma.cz', 'l.riečan@firma.cz',
-    'v.koudelová@firma.cz', 'f.vorlová@firma.cz', 'i.seleš@firma.cz'
-]
+# Vstupní text
+text = "Toto je testovací text. Jak často se zde vyskytují slova různých délek?"
 
-skupina_2 = [
-    'j.šmíd@firma.cz', 'j.procházková@firma.cz', 'l.riečan@firma.cz', 'd.hlavatá@firma.cz', 
-    'm.železný@firma.cz', 'p.niklesová@firma.cz', 'b.skok@firma.cz',
-]
+# Inicializace slovníku pro počítání četností slov podle délky
+cetnosti = {}
 
-s1 = set(skupina_1)
-s2 = set(skupina_2)
-if s1.intersection(s2):
-    print("Máme uchazeče v obou skupinách")
-else:
-    print("Žádný uživatel není v obou skupinách")
-if s1.intersection(s2):
-    print(s1.intersection(s2))
-    s2.difference_update(s1.intersection(s2))
-    print(s1)
-    print(s2)
+# Rozdělení textu na slova a odstranění interpunkce
+slova = text.split()
 
+# Procházení slov a počítání jejich délek
+for slovo in slova:
+    delka = len(slovo)  # Zjištění délky slova
+    if delka in cetnosti:
+        cetnosti[delka] += 1  # Zvýšení počtu slov této délky
+    else:
+        cetnosti[delka] = 1  # První výskyt této délky
+
+# Výstup
+for delka in sorted(cetnosti):  # Seřazení podle délky slova
+    print(f"Slova s {delka} písmeny: {cetnosti[delka]}x")
