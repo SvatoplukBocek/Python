@@ -1,0 +1,2330 @@
+<!DOCTYPE html>
+<html lang="cs">
+ <head>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+   <link href="styly" media="screen, print" rel="stylesheet" type="text/css"/>
+   <title>
+    Výsledky hlasování za územní celky – výběr územní úrovně | volby.cz
+   </title>
+  </meta>
+ </head>
+ <body>
+  <header>
+   <div id="header2">
+    <div class="in">
+     <div id="header">
+      <a href="/" id="logo">
+       <span>
+        volby.cz
+       </span>
+      </a>
+      <span id="headerLinkvolby">
+       www.volby.cz
+      </span>
+      <a href="https://www.czso.cz/csu/czso/domov" id="csu_logo">
+       <span>
+        Český statistický úřad
+       </span>
+      </a>
+      <span id="headerLink">
+       www.czso.cz
+      </span>
+     </div>
+     <!-- header end -->
+     <div class="clear">
+     </div>
+     <nav aria-label="Drobečková navigace">
+      <p class="drobek">
+       <a href="/">
+        <span>
+        </span>
+        Úvod
+       </a>
+       &gt;
+       <a href="ps?xjazyk=CZ">
+        Poslanecká sněmovna 2017
+       </a>
+       &gt; Výsledky hlasování – výběr územní úrovně
+      </p>
+      <!--drobeckova navigace-->
+     </nav>
+     <h1>
+      Volby do Poslanecké sněmovny Parlamentu České republiky konané ve dnech 20.10. – 21.10.2017 (promítnuto usnesení NSS)
+     </h1>
+    </div>
+   </div>
+   <!-- header2 end -->
+  </header>
+  <main>
+   <div id="container">
+    <div class="in">
+     <div id="core">
+      <div id="content">
+       <div class="topline" id="publikace">
+        <h2>
+         Výsledky hlasování za územní celky – výběr územní úrovně
+        </h2>
+        <div id="menu_volby_relative">
+         <div id="menu_volby">
+          <div id="tlacitka">
+           <ul class="menu_nuts">
+            <li>
+             <a href="ps2?xjazyk=CZ&amp;xkraj=0">
+              <b>
+               Česká republika
+              </b>
+             </a>
+            </li>
+            <li class="lichy">
+             <a href="#1">
+              Hlavní město Praha
+             </a>
+            </li>
+            <li>
+             <a href="#2">
+              Středočeský kraj
+             </a>
+            </li>
+            <li class="lichy">
+             <a href="#3">
+              Jihočeský kraj
+             </a>
+            </li>
+            <li>
+             <a href="#4">
+              Plzeňský kraj
+             </a>
+            </li>
+            <li class="lichy">
+             <a href="#5">
+              Karlovarský kraj
+             </a>
+            </li>
+            <li>
+             <a href="#6">
+              Ústecký kraj
+             </a>
+            </li>
+            <li class="lichy">
+             <a href="#7">
+              Liberecký kraj
+             </a>
+            </li>
+            <li>
+             <a href="#8">
+              Královéhradecký kraj
+             </a>
+            </li>
+            <li class="lichy">
+             <a href="#9">
+              Pardubický kraj
+             </a>
+            </li>
+            <li>
+             <a href="#10">
+              Kraj Vysočina
+             </a>
+            </li>
+            <li class="lichy">
+             <a href="#11">
+              Jihomoravský kraj
+             </a>
+            </li>
+            <li>
+             <a href="#12">
+              Olomoucký kraj
+             </a>
+            </li>
+            <li class="lichy">
+             <a href="#13">
+              Zlínský kraj
+             </a>
+            </li>
+            <li>
+             <a href="#14">
+              Moravskoslezský kraj
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+        <a name="1">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=1">
+          Hlavní město Praha
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Hlavní město Praha
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t1sa1">
+           Územní úroveň
+          </th>
+          <th id="t1sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t1sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t1sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t1sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t1sa1 t1sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=1">
+            CZ0100
+           </a>
+          </td>
+          <td headers="t1sa1 t1sb2">
+           Praha
+          </td>
+          <td class="center" headers="t1sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=1&amp;xnumnuts=1100">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t1sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=1&amp;xnumnuts=1100">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="2">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=2">
+          Středočeský kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Středočeský kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t2sa1">
+           Územní úroveň
+          </th>
+          <th id="t2sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t2sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t2sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t2sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2101">
+            CZ0201
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Benešov
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2101">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2101">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2102">
+            CZ0202
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Beroun
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2102">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2102">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2103">
+            CZ0203
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Kladno
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2103">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2103">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2104">
+            CZ0204
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Kolín
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2104">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2104">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2105">
+            CZ0205
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Kutná Hora
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2105">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2105">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2106">
+            CZ0206
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Mělník
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2106">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2106">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2107">
+            CZ0207
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Mladá Boleslav
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2107">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2107">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2108">
+            CZ0208
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Nymburk
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2108">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2108">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2109">
+            CZ0209
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Praha-východ
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2109">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2109">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2110">
+            CZ020A
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Praha-západ
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2110">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2110">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2111">
+            CZ020B
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Příbram
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2111">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2111">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t2sa1 t2sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2112">
+            CZ020C
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Rakovník
+          </td>
+          <td class="center" headers="t2sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2112">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=2&amp;xnumnuts=2112">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="center" headers="t2sa1 t2sb1">
+           <a href="ps361?xjazyk=CZ">
+            X
+           </a>
+          </td>
+          <td headers="t2sa1 t2sb2">
+           Zahraničí
+          </td>
+          <td class="center" headers="t2sa2">
+           N
+          </td>
+          <td class="center" headers="t2sa3">
+           <a href="ps36?xjazyk=CZ">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="3">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=3">
+          Jihočeský kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Jihočeský kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t3sa1">
+           Územní úroveň
+          </th>
+          <th id="t3sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t3sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t3sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t3sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t3sa1 t3sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3101">
+            CZ0311
+           </a>
+          </td>
+          <td headers="t3sa1 t3sb2">
+           České Budějovice
+          </td>
+          <td class="center" headers="t3sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3101">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t3sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3101">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t3sa1 t3sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3102">
+            CZ0312
+           </a>
+          </td>
+          <td headers="t3sa1 t3sb2">
+           Český Krumlov
+          </td>
+          <td class="center" headers="t3sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3102">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t3sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3102">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t3sa1 t3sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3103">
+            CZ0313
+           </a>
+          </td>
+          <td headers="t3sa1 t3sb2">
+           Jindřichův Hradec
+          </td>
+          <td class="center" headers="t3sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3103">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t3sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3103">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t3sa1 t3sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3104">
+            CZ0314
+           </a>
+          </td>
+          <td headers="t3sa1 t3sb2">
+           Písek
+          </td>
+          <td class="center" headers="t3sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3104">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t3sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3104">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t3sa1 t3sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3105">
+            CZ0315
+           </a>
+          </td>
+          <td headers="t3sa1 t3sb2">
+           Prachatice
+          </td>
+          <td class="center" headers="t3sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3105">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t3sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3105">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t3sa1 t3sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3106">
+            CZ0316
+           </a>
+          </td>
+          <td headers="t3sa1 t3sb2">
+           Strakonice
+          </td>
+          <td class="center" headers="t3sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3106">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t3sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3106">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t3sa1 t3sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3107">
+            CZ0317
+           </a>
+          </td>
+          <td headers="t3sa1 t3sb2">
+           Tábor
+          </td>
+          <td class="center" headers="t3sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3107">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t3sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=3&amp;xnumnuts=3107">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="4">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=4">
+          Plzeňský kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Plzeňský kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t4sa1">
+           Územní úroveň
+          </th>
+          <th id="t4sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t4sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t4sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t4sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t4sa1 t4sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3201">
+            CZ0321
+           </a>
+          </td>
+          <td headers="t4sa1 t4sb2">
+           Domažlice
+          </td>
+          <td class="center" headers="t4sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3201">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t4sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3201">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t4sa1 t4sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3202">
+            CZ0322
+           </a>
+          </td>
+          <td headers="t4sa1 t4sb2">
+           Klatovy
+          </td>
+          <td class="center" headers="t4sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3202">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t4sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3202">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t4sa1 t4sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3203">
+            CZ0323
+           </a>
+          </td>
+          <td headers="t4sa1 t4sb2">
+           Plzeň-město
+          </td>
+          <td class="center" headers="t4sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3203">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t4sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3203">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t4sa1 t4sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3204">
+            CZ0324
+           </a>
+          </td>
+          <td headers="t4sa1 t4sb2">
+           Plzeň-jih
+          </td>
+          <td class="center" headers="t4sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3204">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t4sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3204">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t4sa1 t4sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3205">
+            CZ0325
+           </a>
+          </td>
+          <td headers="t4sa1 t4sb2">
+           Plzeň-sever
+          </td>
+          <td class="center" headers="t4sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3205">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t4sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3205">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t4sa1 t4sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3206">
+            CZ0326
+           </a>
+          </td>
+          <td headers="t4sa1 t4sb2">
+           Rokycany
+          </td>
+          <td class="center" headers="t4sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3206">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t4sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3206">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t4sa1 t4sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3207">
+            CZ0327
+           </a>
+          </td>
+          <td headers="t4sa1 t4sb2">
+           Tachov
+          </td>
+          <td class="center" headers="t4sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3207">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t4sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=4&amp;xnumnuts=3207">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="5">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=5">
+          Karlovarský kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Karlovarský kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t5sa1">
+           Územní úroveň
+          </th>
+          <th id="t5sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t5sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t5sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t5sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t5sa1 t5sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=5&amp;xnumnuts=4101">
+            CZ0411
+           </a>
+          </td>
+          <td headers="t5sa1 t5sb2">
+           Cheb
+          </td>
+          <td class="center" headers="t5sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=5&amp;xnumnuts=4101">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t5sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=5&amp;xnumnuts=4101">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t5sa1 t5sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=5&amp;xnumnuts=4102">
+            CZ0412
+           </a>
+          </td>
+          <td headers="t5sa1 t5sb2">
+           Karlovy Vary
+          </td>
+          <td class="center" headers="t5sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=5&amp;xnumnuts=4102">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t5sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=5&amp;xnumnuts=4102">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t5sa1 t5sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=5&amp;xnumnuts=4103">
+            CZ0413
+           </a>
+          </td>
+          <td headers="t5sa1 t5sb2">
+           Sokolov
+          </td>
+          <td class="center" headers="t5sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=5&amp;xnumnuts=4103">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t5sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=5&amp;xnumnuts=4103">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="6">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=6">
+          Ústecký kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Ústecký kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t6sa1">
+           Územní úroveň
+          </th>
+          <th id="t6sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t6sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t6sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t6sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t6sa1 t6sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4201">
+            CZ0421
+           </a>
+          </td>
+          <td headers="t6sa1 t6sb2">
+           Děčín
+          </td>
+          <td class="center" headers="t6sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4201">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t6sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4201">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t6sa1 t6sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4202">
+            CZ0422
+           </a>
+          </td>
+          <td headers="t6sa1 t6sb2">
+           Chomutov
+          </td>
+          <td class="center" headers="t6sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4202">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t6sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4202">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t6sa1 t6sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4203">
+            CZ0423
+           </a>
+          </td>
+          <td headers="t6sa1 t6sb2">
+           Litoměřice
+          </td>
+          <td class="center" headers="t6sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4203">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t6sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4203">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t6sa1 t6sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4204">
+            CZ0424
+           </a>
+          </td>
+          <td headers="t6sa1 t6sb2">
+           Louny
+          </td>
+          <td class="center" headers="t6sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4204">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t6sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4204">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t6sa1 t6sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4205">
+            CZ0425
+           </a>
+          </td>
+          <td headers="t6sa1 t6sb2">
+           Most
+          </td>
+          <td class="center" headers="t6sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4205">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t6sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4205">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t6sa1 t6sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4206">
+            CZ0426
+           </a>
+          </td>
+          <td headers="t6sa1 t6sb2">
+           Teplice
+          </td>
+          <td class="center" headers="t6sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4206">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t6sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4206">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t6sa1 t6sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4207">
+            CZ0427
+           </a>
+          </td>
+          <td headers="t6sa1 t6sb2">
+           Ústí nad Labem
+          </td>
+          <td class="center" headers="t6sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4207">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t6sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=6&amp;xnumnuts=4207">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="7">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=7">
+          Liberecký kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Liberecký kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t7sa1">
+           Územní úroveň
+          </th>
+          <th id="t7sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t7sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t7sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t7sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t7sa1 t7sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5101">
+            CZ0511
+           </a>
+          </td>
+          <td headers="t7sa1 t7sb2">
+           Česká Lípa
+          </td>
+          <td class="center" headers="t7sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5101">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t7sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5101">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t7sa1 t7sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5102">
+            CZ0512
+           </a>
+          </td>
+          <td headers="t7sa1 t7sb2">
+           Jablonec nad Nisou
+          </td>
+          <td class="center" headers="t7sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5102">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t7sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5102">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t7sa1 t7sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5103">
+            CZ0513
+           </a>
+          </td>
+          <td headers="t7sa1 t7sb2">
+           Liberec
+          </td>
+          <td class="center" headers="t7sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5103">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t7sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5103">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t7sa1 t7sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5104">
+            CZ0514
+           </a>
+          </td>
+          <td headers="t7sa1 t7sb2">
+           Semily
+          </td>
+          <td class="center" headers="t7sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5104">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t7sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=7&amp;xnumnuts=5104">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="8">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=8">
+          Královéhradecký kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Královéhradecký kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t8sa1">
+           Územní úroveň
+          </th>
+          <th id="t8sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t8sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t8sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t8sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t8sa1 t8sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5201">
+            CZ0521
+           </a>
+          </td>
+          <td headers="t8sa1 t8sb2">
+           Hradec Králové
+          </td>
+          <td class="center" headers="t8sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5201">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t8sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5201">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t8sa1 t8sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5202">
+            CZ0522
+           </a>
+          </td>
+          <td headers="t8sa1 t8sb2">
+           Jičín
+          </td>
+          <td class="center" headers="t8sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5202">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t8sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5202">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t8sa1 t8sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5203">
+            CZ0523
+           </a>
+          </td>
+          <td headers="t8sa1 t8sb2">
+           Náchod
+          </td>
+          <td class="center" headers="t8sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5203">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t8sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5203">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t8sa1 t8sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5204">
+            CZ0524
+           </a>
+          </td>
+          <td headers="t8sa1 t8sb2">
+           Rychnov nad Kněžnou
+          </td>
+          <td class="center" headers="t8sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5204">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t8sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5204">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t8sa1 t8sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5205">
+            CZ0525
+           </a>
+          </td>
+          <td headers="t8sa1 t8sb2">
+           Trutnov
+          </td>
+          <td class="center" headers="t8sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5205">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t8sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=8&amp;xnumnuts=5205">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="9">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=9">
+          Pardubický kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Pardubický kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t9sa1">
+           Územní úroveň
+          </th>
+          <th id="t9sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t9sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t9sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t9sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t9sa1 t9sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5301">
+            CZ0531
+           </a>
+          </td>
+          <td headers="t9sa1 t9sb2">
+           Chrudim
+          </td>
+          <td class="center" headers="t9sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5301">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t9sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5301">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t9sa1 t9sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5302">
+            CZ0532
+           </a>
+          </td>
+          <td headers="t9sa1 t9sb2">
+           Pardubice
+          </td>
+          <td class="center" headers="t9sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5302">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t9sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5302">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t9sa1 t9sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5303">
+            CZ0533
+           </a>
+          </td>
+          <td headers="t9sa1 t9sb2">
+           Svitavy
+          </td>
+          <td class="center" headers="t9sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5303">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t9sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5303">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t9sa1 t9sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5304">
+            CZ0534
+           </a>
+          </td>
+          <td headers="t9sa1 t9sb2">
+           Ústí nad Orlicí
+          </td>
+          <td class="center" headers="t9sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5304">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t9sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=9&amp;xnumnuts=5304">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="10">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=10">
+          Kraj Vysočina
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Kraj Vysočina
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t10sa1">
+           Územní úroveň
+          </th>
+          <th id="t10sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t10sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t10sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t10sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t10sa1 t10sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6101">
+            CZ0631
+           </a>
+          </td>
+          <td headers="t10sa1 t10sb2">
+           Havlíčkův Brod
+          </td>
+          <td class="center" headers="t10sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6101">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t10sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6101">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t10sa1 t10sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6102">
+            CZ0632
+           </a>
+          </td>
+          <td headers="t10sa1 t10sb2">
+           Jihlava
+          </td>
+          <td class="center" headers="t10sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6102">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t10sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6102">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t10sa1 t10sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6103">
+            CZ0633
+           </a>
+          </td>
+          <td headers="t10sa1 t10sb2">
+           Pelhřimov
+          </td>
+          <td class="center" headers="t10sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6103">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t10sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6103">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t10sa1 t10sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6104">
+            CZ0634
+           </a>
+          </td>
+          <td headers="t10sa1 t10sb2">
+           Třebíč
+          </td>
+          <td class="center" headers="t10sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6104">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t10sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6104">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t10sa1 t10sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6105">
+            CZ0635
+           </a>
+          </td>
+          <td headers="t10sa1 t10sb2">
+           Žďár nad Sázavou
+          </td>
+          <td class="center" headers="t10sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6105">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t10sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=10&amp;xnumnuts=6105">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="11">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=11">
+          Jihomoravský kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Jihomoravský kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t11sa1">
+           Územní úroveň
+          </th>
+          <th id="t11sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t11sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t11sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t11sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t11sa1 t11sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6201">
+            CZ0641
+           </a>
+          </td>
+          <td headers="t11sa1 t11sb2">
+           Blansko
+          </td>
+          <td class="center" headers="t11sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6201">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t11sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6201">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t11sa1 t11sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6202">
+            CZ0642
+           </a>
+          </td>
+          <td headers="t11sa1 t11sb2">
+           Brno-město
+          </td>
+          <td class="center" headers="t11sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6202">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t11sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6202">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t11sa1 t11sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6203">
+            CZ0643
+           </a>
+          </td>
+          <td headers="t11sa1 t11sb2">
+           Brno-venkov
+          </td>
+          <td class="center" headers="t11sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6203">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t11sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6203">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t11sa1 t11sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6204">
+            CZ0644
+           </a>
+          </td>
+          <td headers="t11sa1 t11sb2">
+           Břeclav
+          </td>
+          <td class="center" headers="t11sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6204">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t11sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6204">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t11sa1 t11sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6205">
+            CZ0645
+           </a>
+          </td>
+          <td headers="t11sa1 t11sb2">
+           Hodonín
+          </td>
+          <td class="center" headers="t11sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6205">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t11sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6205">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t11sa1 t11sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6206">
+            CZ0646
+           </a>
+          </td>
+          <td headers="t11sa1 t11sb2">
+           Vyškov
+          </td>
+          <td class="center" headers="t11sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6206">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t11sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6206">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t11sa1 t11sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6207">
+            CZ0647
+           </a>
+          </td>
+          <td headers="t11sa1 t11sb2">
+           Znojmo
+          </td>
+          <td class="center" headers="t11sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6207">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t11sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=11&amp;xnumnuts=6207">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="12">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=12">
+          Olomoucký kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Olomoucký kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t12sa1">
+           Územní úroveň
+          </th>
+          <th id="t12sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t12sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t12sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t12sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t12sa1 t12sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7101">
+            CZ0711
+           </a>
+          </td>
+          <td headers="t12sa1 t12sb2">
+           Jeseník
+          </td>
+          <td class="center" headers="t12sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7101">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t12sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7101">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t12sa1 t12sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7102">
+            CZ0712
+           </a>
+          </td>
+          <td headers="t12sa1 t12sb2">
+           Olomouc
+          </td>
+          <td class="center" headers="t12sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7102">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t12sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7102">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t12sa1 t12sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7103">
+            CZ0713
+           </a>
+          </td>
+          <td headers="t12sa1 t12sb2">
+           Prostějov
+          </td>
+          <td class="center" headers="t12sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7103">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t12sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7103">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t12sa1 t12sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7104">
+            CZ0714
+           </a>
+          </td>
+          <td headers="t12sa1 t12sb2">
+           Přerov
+          </td>
+          <td class="center" headers="t12sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7104">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t12sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7104">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t12sa1 t12sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7105">
+            CZ0715
+           </a>
+          </td>
+          <td headers="t12sa1 t12sb2">
+           Šumperk
+          </td>
+          <td class="center" headers="t12sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7105">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t12sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=12&amp;xnumnuts=7105">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="13">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=13">
+          Zlínský kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Zlínský kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t13sa1">
+           Územní úroveň
+          </th>
+          <th id="t13sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t13sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t13sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t13sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t13sa1 t13sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7201">
+            CZ0721
+           </a>
+          </td>
+          <td headers="t13sa1 t13sb2">
+           Kroměříž
+          </td>
+          <td class="center" headers="t13sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7201">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t13sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7201">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t13sa1 t13sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7202">
+            CZ0722
+           </a>
+          </td>
+          <td headers="t13sa1 t13sb2">
+           Uherské Hradiště
+          </td>
+          <td class="center" headers="t13sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7202">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t13sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7202">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t13sa1 t13sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7203">
+            CZ0723
+           </a>
+          </td>
+          <td headers="t13sa1 t13sb2">
+           Vsetín
+          </td>
+          <td class="center" headers="t13sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7203">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t13sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7203">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t13sa1 t13sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7204">
+            CZ0724
+           </a>
+          </td>
+          <td headers="t13sa1 t13sb2">
+           Zlín
+          </td>
+          <td class="center" headers="t13sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7204">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t13sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=13&amp;xnumnuts=7204">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <a name="14">
+        </a>
+        <h3 class="kraj">
+         <a href="ps311?xjazyk=CZ&amp;xkraj=14">
+          Moravskoslezský kraj
+         </a>
+        </h3>
+        <h3 class="skryto">
+         Výsledky hlasování za územní celky – část Moravskoslezský kraj
+        </h3>
+        <details class="skryto">
+         <summary>
+          Popis tabulky
+         </summary>
+         Tabulka umožňuje výběr příslušného územního celku na úrovni krajů a okresů. K výběru případných dalších územních celků použijte odkazy označené symbolem X.
+        </details>
+        <table class="table">
+         <tr>
+          <th colspan="2" id="t14sa1">
+           Územní úroveň
+          </th>
+          <th id="t14sa2" rowspan="2">
+           Výběr
+           <br/>
+           PM
+          </th>
+          <th id="t14sa3" rowspan="2">
+           Výběr
+           <br/>
+           obce
+          </th>
+         </tr>
+         <tr>
+          <th class="fixed45" id="t14sb1">
+           kód
+          </th>
+          <th class="fixed150" id="t14sb2">
+           název
+          </th>
+         </tr>
+         <tr>
+          <td headers="t14sa1 t14sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8101">
+            CZ0801
+           </a>
+          </td>
+          <td headers="t14sa1 t14sb2">
+           Bruntál
+          </td>
+          <td class="center" headers="t14sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8101">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t14sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8101">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t14sa1 t14sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8102">
+            CZ0802
+           </a>
+          </td>
+          <td headers="t14sa1 t14sb2">
+           Frýdek-Místek
+          </td>
+          <td class="center" headers="t14sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8102">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t14sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8102">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t14sa1 t14sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8103">
+            CZ0803
+           </a>
+          </td>
+          <td headers="t14sa1 t14sb2">
+           Karviná
+          </td>
+          <td class="center" headers="t14sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8103">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t14sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8103">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t14sa1 t14sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8104">
+            CZ0804
+           </a>
+          </td>
+          <td headers="t14sa1 t14sb2">
+           Nový Jičín
+          </td>
+          <td class="center" headers="t14sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8104">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t14sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8104">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t14sa1 t14sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8105">
+            CZ0805
+           </a>
+          </td>
+          <td headers="t14sa1 t14sb2">
+           Opava
+          </td>
+          <td class="center" headers="t14sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8105">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t14sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8105">
+            X
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td headers="t14sa1 t14sb1">
+           <a href="ps311?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8106">
+            CZ0806
+           </a>
+          </td>
+          <td headers="t14sa1 t14sb2">
+           Ostrava-město
+          </td>
+          <td class="center" headers="t14sa2">
+           <a href="ps31?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8106">
+            X
+           </a>
+          </td>
+          <td class="center" headers="t14sa3">
+           <a href="ps32?xjazyk=CZ&amp;xkraj=14&amp;xnumnuts=8106">
+            X
+           </a>
+          </td>
+         </tr>
+        </table>
+        <div class="clear">
+        </div>
+        <nav aria-label="O úroveň výš">
+         <p class="drobek_back">
+          Zpět:
+          <a href="ps?xjazyk=CZ">
+           Poslanecká sněmovna 2017
+          </a>
+         </p>
+         <!--drobeckova navigace-->
+        </nav>
+       </div>
+       <!-- end publikace-->
+      </div>
+      <!-- end content-->
+     </div>
+     <!-- core end -->
+    </div>
+    <!-- in end -->
+   </div>
+   <!-- container end -->
+  </main>
+  <footer>
+   <div id="footer">
+    <div class="in">
+     <div class="footerContent">
+      <ul>
+       <li>
+        © Český statistický úřad, 2021
+       </li>
+       <li>
+        <a href="/cz/prohlaseni_o_pristupnosti.htm">
+         Prohlášení o přístupnosti
+        </a>
+       </li>
+       <li>
+        Datum a čas generování stránky:  18/05/2025 11:41:33
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <!-- footer end -->
+  </footer>
+ </body>
+</html>
